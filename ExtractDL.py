@@ -106,3 +106,7 @@ while(True):
         print(jsonfile)
         break
     except:
+break
+    except:
+
+        print('Opps Something went Wrong! Check Your Internet Connection and try again')
